@@ -2,6 +2,9 @@
 
 このプロジェクトは、[Figlet](https://www.npmjs.com/package/figlet)を使ったロゴ出力プログラムを通して、TypeScriptの基本的な使い方を学ぶことを目的としています。
 
+## GitHubリポジトリ
+https://github.com/access-benkyou/figlet-typescript
+
 ## プロジェクトの概要
 
 このプロジェクトでは、文字列をアスキーアートのロゴに変換する簡単なプログラムを作成し、TypeScriptの型定義やインターフェース定義などの基本機能を学習します。
